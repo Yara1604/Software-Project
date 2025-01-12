@@ -1,0 +1,48 @@
+.blue-container {
+    height: 70px !important;
+}
+
+.page-container__main-section h2 {
+    font-weight: normal;
+    margin-top: 40px;
+    font-size: 20px;
+    width: 595px;
+    color: #414141;
+}
+
+.page-container__main-section a {
+    text-decoration: underline;
+    color: #01817C;
+}
+
+.card {
+    text-align: center;
+    margin-bottom: 20px;
+    border: 1px solid #01817C;
+    width: 370px;
+    margin: auto;
+    padding: 25px;
+}
+
+.card-img {
+    padding-top: 10px;
+}
+
+
+input[type=submit] {
+    color: white;
+    background-color: #01817C;
+    width: 75px;
+    height: 25px;
+    font-weight: bold;
+    text-align: center;
+    padding: 6px;
+    margin: auto;
+    margin: 8px auto;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#btn-a {
+    text-decoration: none;
+}

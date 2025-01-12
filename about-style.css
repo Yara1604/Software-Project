@@ -1,0 +1,28 @@
+.page-container__main-section h2 {
+    font-weight: normal;
+    margin-top: 40px;
+    font-size: 20px;
+    width: 285px;
+    color: #414141
+    /*border-bottom: 2px solid #01817C;*/
+}
+
+.page-container__main-section a {
+    text-decoration: underline;
+    color: #01817C;
+}
+
+#btn {
+    color: white;
+    background-color: #01817C;
+    width: 75px;
+    height: 25px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 6px;
+    
+}
+
+#btn-a {
+    text-decoration: none;
+}
