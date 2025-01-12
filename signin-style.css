@@ -1,0 +1,55 @@
+.blue-container {
+    height: 70px !important;
+}
+
+.page-container__main-section h2 {
+    font-weight: normal;
+    margin-top: 40px;
+    font-size: 20px;
+    width: 285px;
+    color: #414141
+}
+
+.page-container__main-section a {
+    text-decoration: underline;
+    color: #01817C;
+}
+
+.card-container {
+    width: 800px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-items: center;
+}
+
+.card {
+    text-align: center;
+    margin-bottom: 20px;
+    border: 1px solid #01817C;
+    width: 270px;
+}
+
+.card a {
+    color: #01817C;
+}
+.card-img {
+    padding-top: 10px;
+}
+
+
+#btn {
+    color: white;
+    background-color: #01817C;
+    width: 75px;
+    height: 25px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 6px;
+    margin: auto;
+    margin: 8px auto;
+}
+
+#btn-a {
+    text-decoration: none;
+}
